@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="101.7538mm"
+   height="100.49005mm"
+   viewBox="0 0 101.7538 100.49005"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   sodipodi:docname="attention.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.73953568"
+     inkscape:cx="405.65994"
+     inkscape:cy="388.75744"
+     inkscape:window-width="1366"
+     inkscape:window-height="745"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <rect
+       x="242.04376"
+       y="179.84258"
+       width="291.58966"
+       height="83.048027"
+       id="rect4" />
+    <rect
+       x="240.94971"
+       y="187.40533"
+       width="348.03848"
+       height="373.85452"
+       id="rect3" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-54.123098,-42.905108)">
+    <rect
+       style="fill:#000000;stroke:#000100;stroke-width:0;stroke-opacity:0.870968"
+       id="rect1"
+       width="101.75381"
+       height="100.49004"
+       x="54.123096"
+       y="42.905109"
+       rx="3.794517" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-2.653188,17.314386)"
+       id="text2"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.3333px;line-height:26.6667px;font-family:'Squada One';-inkscape-font-specification:'Squada One';text-align:center;letter-spacing:-1.25px;word-spacing:0px;white-space:pre;shape-inside:url(#rect3);display:inline;fill:#ffffff;stroke:#000100;stroke-width:0;stroke-opacity:0.870968"
+       x="-165.32098"
+       y="0"><tspan
+         x="240.94922"
+         y="207.45041"
+         id="tspan2"><tspan
+           style="text-align:start;text-anchor:start"
+           id="tspan1">YOU ACKOWLEDGE BY USING THIS DAPP YOU ARE </tspan></tspan><tspan
+         x="240.94922"
+         y="234.11711"
+         id="tspan5"><tspan
+           style="text-align:start;text-anchor:start"
+           id="tspan4">LIABLE / RESPONSIBLE FOR YOUR OWN ACTIONS. WE </tspan></tspan><tspan
+         x="240.94922"
+         y="260.78381"
+         id="tspan7"><tspan
+           style="text-align:start;text-anchor:start"
+           id="tspan6">ARE NOT AN INVESTMENT SCHEME / PLAN, WE ARE A </tspan></tspan><tspan
+         x="240.94922"
+         y="287.4505"
+         id="tspan9"><tspan
+           style="text-align:start;text-anchor:start"
+           id="tspan8">GAME PROJECT MAKING A PRODUCT WITH A TOKEN </tspan></tspan><tspan
+         x="240.94922"
+         y="314.11719"
+         id="tspan11"><tspan
+           style="text-align:start;text-anchor:start"
+           id="tspan10">BASED ECONOMY, WE WILL NOT BE HELD LIABLE FOR </tspan></tspan><tspan
+         x="240.94922"
+         y="340.78387"
+         id="tspan13"><tspan
+           style="text-align:start;text-anchor:start"
+           id="tspan12">ANY FINANCIAL LOSSES OR GAINS FROM MAKING USE </tspan></tspan><tspan
+         x="240.94922"
+         y="367.45056"
+         id="tspan15"><tspan
+           style="text-align:start;text-anchor:start"
+           id="tspan14">OF PROVIDED UTILITIES / SERVICES. WE DO OUR </tspan></tspan><tspan
+         x="240.94922"
+         y="394.11725"
+         id="tspan17"><tspan
+           style="text-align:start;text-anchor:start"
+           id="tspan16">UTMOST TO PROVIDE BUT WE CANNOT ACCOUNT FOR </tspan></tspan><tspan
+         x="240.94922"
+         y="420.78393"
+         id="tspan19"><tspan
+           style="text-align:start;text-anchor:start"
+           id="tspan18">USER ERROR, RISK ASSESSMENT OR MARKET </tspan></tspan><tspan
+         x="240.94922"
+         y="447.45062"
+         id="tspan21"><tspan
+           style="text-align:start;text-anchor:start"
+           id="tspan20">VOLATILITY. </tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,20.417454,2.6308582)"
+       id="text3"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.6667px;line-height:53.3334px;font-family:'Squada One';-inkscape-font-specification:'Squada One';text-align:start;letter-spacing:-1.25px;word-spacing:0px;white-space:pre;shape-inside:url(#rect4);display:inline;fill:#ffffff;stroke:#000100;stroke-width:0;stroke-opacity:0.870968"><tspan
+         x="242.04297"
+         y="219.93014"
+         id="tspan22">ATTENTION!</tspan></text>
+  </g>
+</svg>
