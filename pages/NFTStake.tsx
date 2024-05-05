@@ -351,7 +351,7 @@ const NFTStake: NextPage = () => {
             setUnstaking(true);
             try {
               const unstake = await nftStakingContract?.call(
-                "unstake",
+                "withdraw",
                 [goozy, getUserStakedNFTsForCollection],
                 {
                   value: toWei(
