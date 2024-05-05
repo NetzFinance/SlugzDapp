@@ -542,7 +542,7 @@ const NFTStake: NextPage = () => {
           onClick={async () => {
             setClaiming(true);
             try {
-              const claim = await nftStakingContract?.call("claim", [goozy], {
+              const claim = await nftStakingContract?.call("getReward", [], {
                 value: chargeStake,
               });
               toast({
