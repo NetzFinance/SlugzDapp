@@ -52,7 +52,7 @@ const useGeckoGetSLUGZ = () => {
       try {
         setIsLoading(true);
         const response = await fetch(
-          "https://pro-api.coingecko.com/api/v3/onchain/networks/mainnetz/tokens/0xb30Cd83BF39CF94Af9d0Fdcc9a5F4c0c60dEBF18",
+          "https://pro-api.coingecko.com/api/v3/onchain/networks/mainnetz/tokens/0x19b376c4493dca3902b90f726ee79c2dbcf8532a",
           options,
         );
 
